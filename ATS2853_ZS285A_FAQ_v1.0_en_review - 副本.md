@@ -158,6 +158,7 @@ btmusic/
 ├── btmusic_main.c
 ├── btmusic_media.c
 ├── btmusic_view.c
+
 ├── Kconfig
 └── Makefile
 
