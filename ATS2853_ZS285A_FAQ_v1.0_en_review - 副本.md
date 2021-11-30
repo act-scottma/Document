@@ -1,85 +1,6 @@
 **ZS285A FAQ**
 
-**Released at 1.0.0**
 
-**January 18,2021**
-
-
-
-## Disclaimer
-
-Information given in this document is provided just as a reference or example
-for the purpose of using Actions ’products, and cannot be treated as a part of
-any quotation or contract for sale.Actions products may contain design defects
-or errors known as anomalies or errata which may cause the products ’functions
-to deviate from published specifications.Designers must not rely on the
-instructions of Actions ’products marked “reserved ”or “undefined ”.Actions
-reserves these for future definition and shall have no responsibility whatsoever
-for conflicts or incompatibilities arising from future changes to them.
-
-ACTIONS DISCLAIMS AND EXCLUDES ANY AND ALL WARRANTIES, INCLUDING WITHOUT
-LIMITATION ANY AND ALL EXPRESS OR IMPLIED WARRANTIES OF MERCHANTABILITY,
-ACCURACY, SECURITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND AGAINST
-INFRINGEMENT OF INTELLECTUAL PROPERTY AND THE LIKE TO THE INFORMATON OF THIS
-DOCUMENT AND ACTIONS PRODUCTS.IN NO EVENT SHALL ACTIONS BE LIABLE FOR ANY
-DIRECT, INCIDENTAL, INDIRECT, SPECIAL, PUNITIVE, OR CONSEQUENTIAL DAMAGES
-WHATSOEVER, INCLUDING, WITHOUT LIMITATION FOR LOST OF DATA, PROFITS, SAVINGS OR
-REVENUES OF ANY KIND ARISING FROM USING THE INFORMATON OF THIS DOCUMENT AND
-ACTIONS PRODUCTS.REGARDLESS OF THE FORM OF ACTION, WHETHER BASED ON CONTRACT;
-TORT; NEGLIGENCE OF ACTIONS OR OTHERS; STRICT LIABILITY; OR OTHERWISE; WHETHER
-OR NOT ANY REMEDY OF BUYER IS HELD TO HAVE FAILED OF ITS ESSENTIAL PURPOSE, AND
-WHETHER ACTIONS HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES OR NOT.
-
-Actions ’products are not designed, intended, authorized or warranted for use in
-any life support or other application where product failure could cause or
-contribute to personal injury or severe property damage.Any and all such uses
-without prior written approval
-
-## ZS285A FAQ, release 1.0.0
-
-of an Officer of Actions and further testing and/or modification will be fully
-at the risk of the customer.
-
-## Ways of obtaining information
-
-Copies of this document and/or other Actions product literature, as well as the
-Terms and Conditions of Sale Agreement, may be obtained by visiting Actions
-’website at:[http://www.actions-semi.com](http://www.actions-semi.com/)or from
-an authorized Actions representative.
-
-## Trademarks
-
-The word "Actions",and the logo and Word "炬芯" are the trademark of Actions
-Technology Co., Limited.Names and brands of other companies and their products
-that may from time to time descriptively appear in this document are the
-trademarks of their respective holders, no affiliation, authorization, or
-endorsement by such persons are claimed or implied except as may be expressly
-stated therein.
-
-## Rights Reserved
-
-The provision of this document shall not be deemed to grant buyers any right in
-and to patent, copyright, trademark, trade secret, know how, and any other
-intellectual property of Actions or others.
-
-## Miscellaneous
-
-Information contained or described herein relates only to the Actions products
-and as of the release date of this publication, abrogates and supersedes all
-previously published data and specifications relating to such products provided
-by Actions or by any other person purporting to distribute such
-information.Actions reserves the rights to make changes to information described
-herein at any time without notice.Please contact your Actions sales
-representatives to obtain the latest information before placing your product
-order.
-
-## Additional Support
-
-Additional products and company information can be obtained by visiting the
-Actions website at:[http://www.actions-semi.com](http://www.actions-semi.com/)
-
-Support: For other information about the company and the products, welcome to
-our website:http://www.actions-semi.com
 
 Overview
 
@@ -100,7 +21,8 @@ Table 1: Version History
 
 | Date       | Version | Comment         | The author          |
 |------------|---------|-----------------|---------------------|
-| 2019-03-20 | 1.0     | Initial version | zs285A Project Team |
+| 2019-03-20 | 1.0     | Initial version |                     |
+| 2021-11-30 | 1.1     | English version |                     |
 
 CHAPTER 3
 
